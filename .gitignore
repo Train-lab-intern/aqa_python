@@ -1,1 +1,8 @@
 venv
+
+.idea/
+__pycache__/
+data/__pycache__/
+locators/__pycache__/
+
+database_connection.py
