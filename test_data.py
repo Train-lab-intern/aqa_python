@@ -4,6 +4,8 @@ NON_EXISTENT_EMAIL = 'test.trainlab12345@gmail.com'
 
 PASSWORD = 'Qaz12345'
 
+NON_EXISTENT_PASSWORD = 'Qaz123456789'
+
 EMPTY_FIELD = ''
 
 SPACES = '         '
